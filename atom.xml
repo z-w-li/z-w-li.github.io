@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>博客</title>
+  <title>主页</title>
   <icon>https://www.gravatar.com/avatar/d3a1756b192aa8d97d58f5306f72e8f0</icon>
   
   <link href="https://github.com/z-w-li/z-w-li.github.io/blog/atom.xml" rel="self"/>
