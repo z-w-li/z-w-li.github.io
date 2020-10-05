@@ -3,14 +3,14 @@
   <title>博客</title>
   <icon>https://www.gravatar.com/avatar/d3a1756b192aa8d97d58f5306f72e8f0</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/z-w-li/z-w-li.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/z-w-li/z-w-li.github.io/blog/"/>
   <updated>2020-10-01T06:45:49.583Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/z-w-li/z-w-li.github.io/blog/</id>
   
   <author>
-    <name>李鹏飞乖儿子</name>
+    <name>人生若只如初见</name>
     <email>137625533@qq.com</email>
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://example.com/2020/10/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2020/10/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://github.com/z-w-li/z-w-li.github.io/blog/2020/10/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://github.com/z-w-li/z-w-li.github.io/blog/2020/10/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-10-01T06:45:49.000Z</published>
     <updated>2020-10-01T06:45:49.583Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/10/01/hello-world/"/>
-    <id>http://example.com/2020/10/01/hello-world/</id>
+    <link href="https://github.com/z-w-li/z-w-li.github.io/blog/2020/10/01/hello-world/"/>
+    <id>https://github.com/z-w-li/z-w-li.github.io/blog/2020/10/01/hello-world/</id>
     <published>2020-10-01T03:09:46.658Z</published>
     <updated>2020-10-01T03:09:46.659Z</updated>
     
